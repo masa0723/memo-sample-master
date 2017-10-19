@@ -1,5 +1,6 @@
-# ｃ⌒っﾟдﾟ)っφ　ﾒﾓﾒﾓ...
+# Github練習用サンプル
 
+以下がオリジナルです。　
 [フロントエンド初心者勉強会 in 大阪](https://kanjava.connpass.com/event/49104/)
 に向けて作ったメモアプリケーション。
 
@@ -17,6 +18,8 @@
 ```console
 gradlew bootRun
 ```
+Eclipse
+Run As > Spring boot App
 
 [http://localhost:8080](http://localhost:8080)
 をブラウザで開く。
